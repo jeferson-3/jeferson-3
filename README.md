@@ -5,10 +5,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6600CC&heigth=120&section=header"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6600CC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jeferson+Batalha;I'm+28+years+old;I'm+from+Brazil;I+Graduated+Analise+e+Desenvolvimento+de+Sistema;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeferson-3&bg_color=000000&color=fcfcfc&line=fcfcfc&point=7505e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![jeferson-3 GitHub stats](https://github-readme-stats.vercel.app/api?username=jeferson-3&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-3&layout=compact)](https://github.com/jeferson-3/github-readme-stats)
 
 
 
