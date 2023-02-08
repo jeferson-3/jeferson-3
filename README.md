@@ -1,5 +1,5 @@
-[![instagra](https://img.shields.io/badge/Instagram-6600CC?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jheff_batalha)
-[![LinKedIn](https://img.shields.io/badge/LinkedIn-6600CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jheff-guimaraes-b78628196)
+[![instagra](https://img.shields.io/badge/Instagram-708090?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jheff_batalha)
+[![LinKedIn](https://img.shields.io/badge/LinkedIn-708090?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jheff-guimaraes-b78628196)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6600CC&heigth=120&section=header"/> 
